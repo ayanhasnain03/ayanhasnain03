@@ -8,7 +8,7 @@
 
 - 🎥 I create coding journey videos on YoutTube at [https://www.youtube.com/](https://www.youtube.com/)
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
 
