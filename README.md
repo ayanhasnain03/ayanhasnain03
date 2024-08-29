@@ -71,9 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayanhasnain03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanhasnain03&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanhasnain03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
@@ -85,9 +82,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ayanhasnain03&label=Profile%20Views&color=9&icon=2&pretty=true" alt="Profile Visit Count"/>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
