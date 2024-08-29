@@ -73,12 +73,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanhasnain03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
-
----
-
-<h3 align="left">🔝 Top Contributed Repositories</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ayanhasnain03&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repositories"/>
-</p>
-
----
