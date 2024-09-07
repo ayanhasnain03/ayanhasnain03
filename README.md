@@ -7,12 +7,12 @@
 
 ---
 
-- 🔭 I’m currently working on **MERN Stack and Next.js**  
+- 🔭 I’m currently working on **FULLSTACK | ANDRIOD & DEVOPS **  
 - 🎥 I share my coding journey on [YouTube](https://www.youtube.com/)  
-- 🌱 Currently learning **DevOps**  
+- 🌱 Currently learning **BLOCKCHAIN**  
 - 💼 Check out my [Portfolio](#)  
 - 💬 Ask me about **Node.js, React, MongoDB, etc.**  
-- 📫 How to reach me: **ayanhasnain.dev**  
+- 📫 How to reach me: **ayanhasnain2572006@gmail.com**  
 
 ---
 
@@ -54,6 +54,48 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.IO" width="40" height="40"/>
+  </a>
+  <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webrtc/webrtc-original.svg" alt="WebRTC" width="40" height="40"/>
+  </a>
+  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original-wordmark.svg" alt="Stripe" width="40" height="40"/>
+  </a>
+  <a href="https://razorpay.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/razorpay/razorpay-original-wordmark.svg" alt="Razorpay" width="40" height="40"/>
+  </a>
+  <a href="https://www.grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="40" height="40"/>
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="Cloudflare" width="40" height="40"/>
+  </a>
+  <a href="https://cryptocurrencyfacts.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cryptocurrency/cryptocurrency-original-wordmark.svg" alt="Crypto" width="40" height="40"/>
+  </a>
   <!-- Add more tools as needed -->
 </p>
 
@@ -65,7 +107,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanhasnain03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
