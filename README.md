@@ -84,9 +84,7 @@
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="Cloudflare" width="40" height="40"/>
   </a>
-  <a href="https://cryptocurrencyfacts.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cryptocurrency/cryptocurrency-original-wordmark.svg" alt="Crypto" width="40" height="40"/>
-  </a>
+
   <!-- Add more tools as needed -->
 </p>
 
