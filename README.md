@@ -78,15 +78,6 @@
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.IO" width="40" height="40"/>
   </a>
-  <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webrtc/webrtc-original.svg" alt="WebRTC" width="40" height="40"/>
-  </a>
-  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original-wordmark.svg" alt="Stripe" width="40" height="40"/>
-  </a>
-  <a href="https://razorpay.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/razorpay/razorpay-original-wordmark.svg" alt="Razorpay" width="40" height="40"/>
-  </a>
   <a href="https://www.grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="40" height="40"/>
   </a>
