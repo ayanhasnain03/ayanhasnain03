@@ -1,14 +1,9 @@
 name: Generate Animation
 
 on:
-  # Run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *"
-
-  # Allows to manually run the job at any time
-  workflow_dispatch:
-
-  # Run on every push to the main branch
+    - cron: "0 */24 * * *" # Runs every 24 hours
+  workflow_dispatch: # Allows manual runs
   push:
     branches:
       - main
@@ -19,10 +14,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Check out the repository to the runner
-      - uses: actions/checkout@v3
-
-      # Generate the snake game SVG and GIF
+      - uses: actions/checkout@v3 # Ensure the repository is checked out
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,7 +25,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push the generated files to the output branch
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
