@@ -53,4 +53,4 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-[<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ayanhasnain03/ayanhasnain03@output/github-contribution-grid-snake-dark.svg" />](https://raw.githubusercontent.com/ayanhasnain03/<repository>/output/github-contribution-grid-snake.sv)
+
