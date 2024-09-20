@@ -16,41 +16,76 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left">
-  <!-- Existing tech stack badges -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img alt="Socket.IO" src="https://img.shields.io/badge/socket.io-%23000000.svg?style=for-the-badge&logo=socket-dot-io&logoColor=white"/>
-  <img alt="Cloudflare" src="https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img alt="Clerk" src="https://img.shields.io/badge/Clerk-%233399FF.svg?style=for-the-badge&logo=clerk&logoColor=white"/>
+<h3 align="center">🛠️ Languages</h3>
 
-  <!-- Newly requested badges -->
-  <img alt="ShadCN" src="https://img.shields.io/badge/ShadCN-%23202020.svg?style=for-the-badge&logo=shadcn&logoColor=white"/>
-  <img alt="Acentrinity" src="https://img.shields.io/badge/Acentrinity-%231572B6.svg?style=for-the-badge&logo=acentrinity&logoColor=white"/>
-  <img alt="WebRPC" src="https://img.shields.io/badge/WebRPC-%23222222.svg?style=for-the-badge&logo=webrpc&logoColor=white"/>
-  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=white"/>
-  <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-%23000000.svg?style=for-the-badge&logo=webrtc&logoColor=white"/>
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-%23000000.svg?style=for-the-badge&logo=turborepo&logoColor=white"/>
-  <img alt="NextAuth" src="https://img.shields.io/badge/NextAuth-%23000000.svg?style=for-the-badge&logo=nextauth&logoColor=white"/>
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-  <!-- New requested badges -->
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="Stripe" src="https://img.shields.io/badge/stripe-%23646EFA.svg?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-%23197EFC.svg?style=for-the-badge&logo=razorpay&logoColor=white"/>
-  <img alt="Crypto" src="https://img.shields.io/badge/Crypto-%23FF5F00.svg?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+<p align="center">
+  <!-- Core Languages -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img alt="GoLang" src="https://img.shields.io/badge/GoLang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
+<h3 align="left">Frontend Development</h3>
+<p align="left">
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img alt="Recoil" src="https://img.shields.io/badge/Recoil-%2320232A.svg?style=for-the-badge&logo=recoil&logoColor=white"/>
+    <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-%23000000.svg?style=for-the-badge&logo=turborepo&logoColor=white"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+   <img alt="SCSS" src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra_UI-%23319795.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
+  <img alt="ShadCN" src="https://img.shields.io/badge/ShadCN-%23202020.svg?style=for-the-badge&logo=shadcn&logoColor=white"/>
+</p>
 
+<h3 align="left">Backend Development</h3>
+<p align="left">
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img alt="Hono" src="https://img.shields.io/badge/Hono-%23202122.svg?style=for-the-badge&logo=hono&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+</p>
+
+<h3 align="left">Blockchain Technologies</h3>
+<p align="left">
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-%23444444.svg?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger-%232F3134.svg?style=for-the-badge&logo=hyperledger&logoColor=white"/>
+  <img alt="Polygon" src="https://img.shields.io/badge/Polygon-%237E44C4.svg?style=for-the-badge&logo=polygon&logoColor=white"/>
+  <img alt="IPFS" src="https://img.shields.io/badge/IPFS-%23202930.svg?style=for-the-badge&logo=ipfs&logoColor=white"/>
+</p>
+
+<h3 align="left">DevOps & Cloud</h3>
+<p align="left">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img alt="Docker Swarm" src="https://img.shields.io/badge/Docker_Swarm-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<h3 align="left">Tools & Utilities</h3>
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<h3 align="left">Payments & Crypto</h3>
+<p align="left">
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-%23646EFA.svg?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-%23197EFC.svg?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img alt="Crypto" src="https://img.shields.io/badge/Crypto-%23FF5F00.svg?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img alt="GitHub Snake" src="https://cdn.jsdelivr.net/gh/ayanhasnain03/ayanhasnain03@output/github-contribution-grid-snake-dark.svg" />
+</p>
